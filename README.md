@@ -33,7 +33,7 @@ The Zomato Clone provides users with the ability to explore various restaurants 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/bhanupm07/zomato-clone.git
+    git clone https://github.com/harshiniumesh/zomato-clone-final
     cd zomato-clone
     ```
 
