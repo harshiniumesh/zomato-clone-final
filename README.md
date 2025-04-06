@@ -66,6 +66,3 @@ The Zomato Clone provides users with the ability to explore various restaurants 
      npm start
      ```
 
-## 🤝 Contributions
-
-Contributions, issues, and feature requests are welcome!
