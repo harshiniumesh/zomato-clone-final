@@ -1,6 +1,7 @@
 # 🍽️ Zomato Clone
 
-A full-stack Zomato clone built using the MERN stack that allows users to explore a curated list of restaurants and manage their profiles. This project focuses on a responsive user interface and seamless functionality across both mobile and desktop views.
+A full-stack Zomato clone built using the MERN stack that allows users to explore a curated list of restaurants and manage their profiles." This project was completed as part of a task assigned during an internship with the Edunet Team, under the Next Gen Employability Program. "
+
 
 
 ## 📂 Project Overview
